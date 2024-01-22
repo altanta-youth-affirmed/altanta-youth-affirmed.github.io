@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This site is currently under construction. Come back soon for more content!
+Atlanta Youth Affirmed, Inc. is a charitable and educational nonprofit corporation that serves transgender youth, their families and the public in the greater Atlanta area. We seek to provide gender-affirming clothing to transgender youth as well as to educate the youth, their families and the public regarding gender issues.
