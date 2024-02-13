@@ -13,6 +13,15 @@ Merf is a married mother of four kids and a graduate of LSU. She spent her early
 
 Mack Beggs, Vice President
 ---
+![picture of Mack Beggs](./images/mack.png){: width="250" }
+
+Is the first transman to win the Texas State Girl's High School Wrestling Championship in 2017 and 2018. University Interscholastic League (UIL) allowed the athletes to compete only for the gender that matches their birth certificate. Meanwhile competing in USA Wrestling the Men and Women’s Division from 2014-2018. In 2018, Beggs was allowed to wrestle at the collegiate level as a walk-on for Life University, an NAIA institution in the 125lb Men's division.
+
+During High School to college, 2014-2022. Two films were being shot at that time highlight Begg’s achievements over the years. Changing the Game featured on HULU and Mack Wrestles featured on 30for30 ESPN FILMS and DISNEY+. While being a student-athlete studying Kinesiology, Psychology and Arts of Human Development and Social Change. Dropping out 2022.
+
+Advocacy and policy work has been continuous with Changing the Game Impact work since 2018. Featuring multiple non-profit and profitable businesses and corporations. Paid past partnerships Instagram campaign work. Currently, paid partnership and Ambassador for The Out Foundation. The OUT Foundation’s mission is to remove the barriers that block LGBTQ+ individuals from access and participation in fitness, health, and wellness, ensuring their success.
+
+We are dedicated to nurturing, empowering, and celebrating LGBTQ+ bodies and minds, guaranteeing our community thrives.
 
 Autumn Williams, Treasurer
 ---
