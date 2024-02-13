@@ -23,13 +23,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   Atlanta Youth Affirmed, Inc. is a charitable and educational nonprofit corporation that serves transgender youth, their families and the public in the greater Atlanta area.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://atlantayouthaffirmed.org # the base hostname & protocol for your site, e.g. http://example.com
+email: atlantayouthaffirmed@gmail.com
+author:
+  email: atlantayouthaffirmed@gmail.com
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 remote_theme: jekyll/minima
 minima:
-  skin: auto
+  social_links:
+    - { platform: facebook, user_url: "https://www.facebook.com/profile.php?id=61556084259366" }
+    - { platform: instagram, user_url: "https://www.instagram.com/atlantayouthaffirmed/" }
 show_excerpts: true
 
 # Exclude from processing.
