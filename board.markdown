@@ -16,6 +16,9 @@ Mack Beggs, Vice President
 
 Autumn Williams, Treasurer
 ---
+![picture of Autumn Williams](./images/autumn.png){: width="250" }
+
+Autumn is a married father of an amazing daughter and married to a loving wife. She graduated from SELU in January 2000 in Computer Science. She has worked in various positions in IT since 1997, including briefly owning her own company in 2007. She enjoys reading everything, video games, hiking, and exercising. Since coming out as a transgender woman and starting her transition in September 2022, she has found a joy in volunteering and working in the nonprofit Community. Atlanta Youth Affirmed aligns perfectly with her ideals and is very similar to a nonprofit she was interested in starting herself, making this is a perfect fit.
 
 Sarah Alexander, Secretary
 ---
