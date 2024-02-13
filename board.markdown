@@ -4,9 +4,21 @@ title: Board of Directors
 permalink: /board/
 ---
 Meridith (Merf) Zelaya, President
+---
+
+![picture of Merf Zelaya](./images/merf.jpg){: width="250" }
+
+Merf is a married mother of four kids and a graduate of LSU. She spent her early years teaching middle school math and science, but decided she'd rather sacrifice her income to stay home with her children. A born entrepreneur,  she spent about 20 years working for herself, from private tutoring and house cleaning to freelance writing and painting furniture and cabinets. She is currently enjoying painting people's cabinets, transforming kitchens into beautiful masterpieces. She loves loud music, crochet, reading nonfiction books and advocating for human rights. Her idea for Atlanta Youth Affirmed was inspired by a close family member who is transgender.
+
 
 Mack Beggs, Vice President
+---
 
-Autumn Williams , Treasurer
+Autumn Williams, Treasurer
+---
 
 Sarah Alexander, Secretary
+---
+![picture of Sarah Alexander](./images/sarah.jpg){: width="250" }
+
+Sarah Alexander is a native of Northern Georgia, currently working for a local nonprofit and enrolled in Georgia State University's MPA program, with a focus on nonprofit management. As a former military spouse, she is a flexible, resilient, and resourceful jack-of-all-trades who brings a "make it work" attitude to her endeavors. As a member of a queer family and the larger LGBTQ+ community, she feels drawn to helping some of the most vulnerable members of that community. In her spare time, she enjoys watching good sci-fi and bad horror with her partner and their cat.
