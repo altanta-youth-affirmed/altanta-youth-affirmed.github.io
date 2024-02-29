@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Board of Directors
-permalink: /board/
+title: About
+permalink: /about/
 ---
 Meridith (Merf) Zelaya, President
 ---

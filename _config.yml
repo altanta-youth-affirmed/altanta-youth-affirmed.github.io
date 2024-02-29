@@ -30,12 +30,20 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+logo: images/logo.jpg
+
+social:
+  name: Atlanta Youth Affirmed
+  links:
+    - https://www.facebook.com/profile.php?id=61556084259366
+    - https://www.instagram.com/atlantayouthaffirmed
+
 remote_theme: jekyll/minima
 minima:
   social_links:
     - { platform: facebook, user_url: "https://www.facebook.com/profile.php?id=61556084259366" }
     - { platform: instagram, user_url: "https://www.instagram.com/atlantayouthaffirmed/" }
-show_excerpts: true
+show_excerpts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
