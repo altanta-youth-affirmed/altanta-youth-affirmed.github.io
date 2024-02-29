@@ -12,3 +12,22 @@
   background-size: 54px 54px;
   background-repeat: no-repeat;
 }
+
+.site-header > .wrapper {
+  background-color: white;
+  height: 56px;
+}
+
+.site-footer > .wrapper {
+  background-color: white;
+  border-radius: 8px;
+  padding: 12px;
+}
+
+.site-header {
+  background: linear-gradient( to bottom, #F5A9B8 0%, #F5A9B8 50%, #5BCEFA 50%, #5BCEFA 100% );
+}
+
+.site-footer {
+  background: linear-gradient( to top, #F5A9B8 0%, #F5A9B8 50%, #5BCEFA 50%, #5BCEFA 100% );
+}
