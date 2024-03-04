@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Meet our Team
 permalink: /about/
 ---
 Meridith (Merf) Zelaya, President
